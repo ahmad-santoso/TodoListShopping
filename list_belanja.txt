@@ -1,0 +1,8 @@
+Bakso:False - Waktu: 2024-01-07 00:19:44
+Es buah:False - Waktu: 2024-01-07 00:20:02
+Gula:False - Waktu: 2024-01-07 00:20:25
+Ikan lele:False - Waktu: 2024-01-07 00:19:01
+Jagung:True - Waktu: 2024-01-07 00:19:38
+Jamur:False - Waktu: 2024-01-07 00:19:51
+Kipas Angin:True - Waktu: 2024-01-07 00:20:38
+Sayur sop:True - Waktu: 2024-01-07 00:18:48
